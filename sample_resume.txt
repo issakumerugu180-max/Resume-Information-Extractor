@@ -1,0 +1,16 @@
+Rahul Kumar
+Email: rahul.kumar@example.com
+Phone: 9876543210
+
+EDUCATION
+B.Tech in Artificial Intelligence and Machine Learning
+ABC University
+2023-2027
+
+SKILLS
+Python, Java, SQL, Machine Learning, TensorFlow
+
+EXPERIENCE
+Machine Learning Intern
+XYZ Technologies
+May 2025 - July 2025
